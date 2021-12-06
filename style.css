@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  margin: 50px;
+}
+.instant_search input {
+  width: 200px;
+  padding: 2px 5px;
+  line-height: 1.5;
+  border-color: #40a9ff;
+  border-radius: 4px;
+  outline: 0;
+  background: transparent;
+  border-width: 1px;
+  font-size: 16px;
+}
+.instant_search .result {
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 2px 5px;
+  margin-top: 5px;
+  text-align: left;
+  list-style: none;
+  outline: none;
+  background-color: #fff;
+  width: 100%;
+}
+.result_title {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.result_desc {
+  border-bottom: solid 1px #999;
+}
