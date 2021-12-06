@@ -14,3 +14,6 @@ An Incremental Search implementation
 ### How to run
 - Download the folder and open index.html in a browser.
 - The THROTTLE_TIME and PAGE_LIMIT could be changed for user experience test.
+
+### Online Demo
+https://jsfiddle.net/roycezhc/L9f03r1b/1/
